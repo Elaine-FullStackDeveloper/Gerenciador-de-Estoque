@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = gerenciador_de_estoque
-build_property.ProjectDir = /home/elaine/Downloads/ger_estq-master (cópia)/gerenciador_de_estoque/
+build_property.ProjectDir = /home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/

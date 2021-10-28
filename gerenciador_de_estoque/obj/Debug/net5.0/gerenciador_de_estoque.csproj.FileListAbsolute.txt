@@ -79,3 +79,44 @@
 /home/elaine/Downloads/ger_estq-master (cópia)/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.pdb
 /home/elaine/Downloads/ger_estq-master (cópia)/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.genruntimeconfig.cache
 /home/elaine/Downloads/ger_estq-master (cópia)/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.csproj.CopyComplete
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/appsettings.Development.json
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/appsettings.json
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/gerenciador_de_estoque
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/gerenciador_de_estoque.deps.json
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/gerenciador_de_estoque.runtimeconfig.json
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/gerenciador_de_estoque.runtimeconfig.dev.json
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/gerenciador_de_estoque.dll
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/ref/gerenciador_de_estoque.dll
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/gerenciador_de_estoque.pdb
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/gerenciador_de_estoque.Views.dll
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/bin/Debug/net5.0/gerenciador_de_estoque.Views.pdb
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.csproj.AssemblyReference.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.AssemblyInfoInputs.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.AssemblyInfo.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.csproj.CoreCompileInputs.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.MvcApplicationPartsAssemblyInfo.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.RazorAssemblyInfo.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.RazorAssemblyInfo.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/staticwebassets/gerenciador_de_estoque.StaticWebAssets.Manifest.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/staticwebassets/gerenciador_de_estoque.StaticWebAssets.xml
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/scopedcss/bundle/gerenciador_de_estoque.styles.css
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.TagHelpers.input.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.TagHelpers.output.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.RazorCoreGenerate.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/Razor/Pages/Controle.cshtml.g.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/Razor/Pages/Error.cshtml.g.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/Razor/Pages/Index.cshtml.g.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/Razor/Pages/Privacy.cshtml.g.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/Razor/Pages/_ViewImports.cshtml.g.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/Razor/Pages/_ViewStart.cshtml.g.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.RazorTargetAssemblyInfo.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.RazorTargetAssemblyInfo.cs
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.Views.pdb
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.dll
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/ref/gerenciador_de_estoque.dll
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.pdb
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.genruntimeconfig.cache
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.csproj.CopyComplete

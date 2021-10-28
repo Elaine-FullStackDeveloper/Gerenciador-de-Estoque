@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/elaine/Downloads/ger_estq-master (cópia)/gerenciador_de_estoque/gerenciador_de_estoque.csproj": {}
+    "/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/gerenciador_de_estoque.csproj": {}
   },
   "projects": {
-    "/home/elaine/Downloads/ger_estq-master (cópia)/gerenciador_de_estoque/gerenciador_de_estoque.csproj": {
+    "/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/gerenciador_de_estoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/elaine/Downloads/ger_estq-master (cópia)/gerenciador_de_estoque/gerenciador_de_estoque.csproj",
+        "projectUniqueName": "/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/gerenciador_de_estoque.csproj",
         "projectName": "gerenciador_de_estoque",
-        "projectPath": "/home/elaine/Downloads/ger_estq-master (cópia)/gerenciador_de_estoque/gerenciador_de_estoque.csproj",
+        "projectPath": "/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/gerenciador_de_estoque.csproj",
         "packagesPath": "/home/elaine/.nuget/packages/",
-        "outputPath": "/home/elaine/Downloads/ger_estq-master (cópia)/gerenciador_de_estoque/obj/",
+        "outputPath": "/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/elaine/.nuget/NuGet/NuGet.Config"
