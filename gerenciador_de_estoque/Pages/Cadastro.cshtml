@@ -1,0 +1,78 @@
+﻿@page
+@model Projeto_final.Pages.CadastroModel
+@{
+}
+
+<div class="container col-8">
+    <h4 class="page-header">Cadastro Novo Produto</h4>
+
+    
+        <div class="card shadow h-100 py-2">
+            <div class="card-body">
+                
+                <form class="mx-2" action="index.html">
+                    <div class="row my-2">
+                        <div class="col">
+                            <label for="Nome">Nome*</label>
+                            <input type="text" class="form-control" id="nome" />
+
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <label for=" codigo">Código*</label>
+                            <input type="text" class="form-control" id="codigo" />
+                        </div>
+
+
+                        <div class="col">
+                            <label for="quantidade">Quantidade*</label>
+                            <input type="text" class="form-control" id="quantidade" />
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col">
+                            <label for=" categoria">Categoria*</label>
+                            <input type="text" class="form-control" id="categoria" />
+                        </div>
+
+
+                        <div class="col">
+                            <label for="tamanho">Tamanho*</label>
+                            <input type="text" class="form-control" id="tamanho" />
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col">
+                            <label for="preco">Preço de venda*</label>
+                            <input type="text" class="form-control" id="preco" />
+                        </div>
+
+
+                        <div class="col">
+                            <label for="imagem">Imagem*</label>
+                            <input type="text" class="form-control" id="imagem" />
+
+                        </div>
+                    </div>
+
+                    <div class="row my-2">
+                        <div class="col">
+                            <label for="descricao">Descrição*</label>
+                            <textarea class="form-control" id="mensagem" col="8" rows="4"></textarea>
+
+                        </div>
+                    </div>
+                    <div class="d-flex flex-row-reverse">
+                        <button type="submit" class="btn btn-info">Cadastrar</button>
+                    </div>
+                </form>
+             
+            </div>
+        </div>
+     
+</div>

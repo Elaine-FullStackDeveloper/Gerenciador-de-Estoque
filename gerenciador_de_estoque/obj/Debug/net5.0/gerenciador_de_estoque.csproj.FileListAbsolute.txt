@@ -120,3 +120,4 @@
 /home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.pdb
 /home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.genruntimeconfig.cache
 /home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/gerenciador_de_estoque.csproj.CopyComplete
+/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/obj/Debug/net5.0/Razor/Pages/Cadastro.cshtml.g.cs

@@ -15657,6 +15657,11 @@
       "FilePath": "/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/elaine/Downloads/Gerenciador-de-Estoque/gerenciador_de_estoque/Pages/Cadastro.cshtml",
+      "TargetPath": "Pages\\Cadastro.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

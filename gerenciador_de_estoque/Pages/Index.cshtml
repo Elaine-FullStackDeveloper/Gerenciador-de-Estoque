@@ -4,19 +4,19 @@
     ViewData["Title"] = "Home page";
 }
 
+<div class="container">
     <h1> Bem Vindo, #Nome</h1>
     <div class="row">
-
         <!-- Earnings (Monthly) Card Example -->
         <div class="col-xl-4 col-md-6 mb-4">
-            <div class="card shadow h-100 py-2">
+            <div class="card shadow-sm h-100 py-2">
                 <div class="card-body">
                     <div class="row no-gutters align-items-center">
                         <div class="col mr-2">
-                            <div class="text-xs font-weight-bold text-info text-uppercase mb-1">
+                            <div class="text-xs font-weight-bold text-info mb-1">
                                 Total de peças no estoque
                             </div>
-                            <div class="h3 mb-0 font-weight-bold text-gray-800">
+                            <div class="h3 mb-0">
                                 #Quant
                             </div>
                         </div>
@@ -30,14 +30,14 @@
 
         <!-- Earnings (Monthly) Card Example -->
         <div class="col-xl-4 col-md-6 mb-4">
-            <div class="card shadow h-100 py-2">
+            <div class="card shadow-sm h-100 py-2">
                 <div class="card-body">
                     <div class="row no-gutters align-items-center">
                         <div class="col mr-2">
-                            <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
+                            <div class="text-xs font-weight-bold text-success mb-1">
                                 Última saída
                             </div>
-                            <div class="h3 mb-0 font-weight-bold text-gray-800">
+                            <div class="h3 mb-0">
                                 #Quant
                             </div>
                         </div>
@@ -51,14 +51,14 @@
 
         <!-- Earnings (Monthly) Card Example -->
         <div class="col-xl-4 col-md-6 mb-4">
-            <div class="card shadow h-100 py-2">
+            <div class="card shadow-sm h-100 py-2">
                 <div class="card-body">
                     <div class="row no-gutters align-items-center">
                         <div class="col mr-2">
-                            <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
+                            <div class="text-xs font-weight-bold text-warning mb-1">
                                 Peça mais vendida
                             </div>
-                            <div class="h3 mb-0 font-weight-bold text-gray-800">
+                            <div class="h3 mb-0">
                                 #Quant
                             </div>
                         </div>
@@ -70,73 +70,171 @@
             </div>
         </div>
 
-        <div class="row">
-          <div class="col-md-8">      
-            <div>
-               <h2> Últimas atualizações </h2>
-            </div>
-               <table class="table table-striped">
-                  <thead>
-                    <tr>
-                      <th scope="col">ID</th>
-                      <th scope="col">Produto</th>
-                      <th scope="col">Tamanho</th>
-                      <th scope="col">Categoria</th>
-                      <th scope="col">Data</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <th scope="row">01</th>
-                      <td>Calça Feminina</td>
-                      <td>40</td>
-                      <td>Adulto/Fem</td>
-                      <td>24/10/2021</td>
-                    </tr>
-                    <tr>
-                      <th scope="row">02</th>
-                      <td>Camiseta Feminina</td>
-                      <td>GG</td>
-                      <td>Adulto/Fem</td>
-                      <td>24/10/2021</td>
-                    </tr>
-                    <tr>
-                      <th scope="row">03</th>
-                      <td>Calça Infantil</td>
-                      <td>10</td>
-                      <td>Infantil</td>
-                      <td>24/10/2021</td>
-                    </tr>
-                  </tbody>
-                </table>
-            </div>
-            <div class="col-md-4">
-                <div>
-                   <h2> Produtos mais Vendidos </h2>
-                </div>
-                <table class="table table-striped">
-                    <thead>
-                      <tr>
-                        <th scope="col">Categoria</th>
-                        <th scope="col">Quant.</th>
-                      </tr>
+    </div>
+    <div class="row justify-content-md-center">
+        <div class="col">
+
+            <h3 class="mb-3 mt-4 ml-2"> Ultimas atualizações </h3>
+
+            <div class="rounded bg-white shadow-sm border">
+                <table class="table table-striped border-0">
+                    <thead class="table table-borderless">
+                        <tr>
+                            <th scope="col">Código</th>
+                            <th scope="col">Produto</th>
+                            <th scope="col">Tamanho</th>
+                            <th scope="col">Categoria</th>
+                            <th scope="col">Data</th>
+                        </tr>
                     </thead>
                     <tbody>
-                      <tr>
-                        <td>Cropped</td>
-                        <td>135</td>
-                      </tr>
-                      <tr>
-                        <td>Camisa Floral</td>
-                        <td>124</td>
-                      </tr>
-                      <tr>
-                        <td>Camisa Homem Aranha</td>
-                        <td>89</td>
-                      </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
+                        <tr>
+                            <th scope="row">136</th>
+                            <td>Calça Feminina</td>
+                            <td>37</td>
+                            <td>Adulto - Fem</td>
+                            <td>28/10/2021</td>
+                        </tr>
                     </tbody>
                 </table>
-              </div>
-         </div>
+            </div>
+            
 
 
+
+        </div>
+        <div class="col col-lg-4">
+
+
+            <h3 class="mb-3 mt-4 ml-2"> Mais Vendidos</h3>
+
+            <div class="rounded bg-white shadow-sm border">
+                <table class="table table-striped border-0">
+                    <thead class="table table-borderless">
+                        <tr>
+                            <th scope="col">Produto</th>
+                            <th scope="col">Quantidade</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                        <tr>
+                            <th scope="row">Calça Feminina</th>
+                            <td>237</td>
+
+                        </tr>
+                    </tbody>
+                </table>
+
+
+
+            </div>
+
+        </div>
